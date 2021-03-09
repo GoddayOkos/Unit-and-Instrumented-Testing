@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="headerText">User Details</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="phone_number_hint">Nigerian phone number</string>
+    <string name="email_hint">Email</string>
+    <string name="gender">Sex:</string>
+    <string name="button_text">Submit</string>
+    <string name="profile_image">profile image</string>
+    <string name="name">Name: %1$s</string>
+    <string name="phone_number">Phone number: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="gender_profile">Gender: %1$s</string>
+</resources>
