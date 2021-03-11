@@ -20,3 +20,7 @@ How will I complete this project?
 1. Proper unit testing
 
 2. Proper UI test with good coverage.
+
+Screenshot_20210311-213735.png![image](https://user-images.githubusercontent.com/60139290/110863025-59fcbf00-82c0-11eb-8fda-6afafa558d6d.png)
+
+Screenshot_20210311-213800.png![image](https://user-images.githubusercontent.com/60139290/110863049-6254fa00-82c0-11eb-89f9-e1d7ee71da76.png)
